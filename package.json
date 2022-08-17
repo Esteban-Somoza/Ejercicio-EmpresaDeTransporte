@@ -1,0 +1,24 @@
+{
+  "name": "ejercico-transporte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban-Somoza/Ejercicio-EmpresaDeTransporte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban-Somoza/Ejercicio-EmpresaDeTransporte/issues"
+  },
+  "homepage": "https://github.com/Esteban-Somoza/Ejercicio-EmpresaDeTransporte#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-range": "^4.0.2"
+  }
+}
