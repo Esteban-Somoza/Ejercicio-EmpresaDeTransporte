@@ -1,0 +1,11 @@
+- estructurar archivos de trabajo aunque sean ejercicios cortos
+- ver de hacer tests de mi ejericicio
+- programacion funcional generalmente no guarda en memoria los datos, solo procesa
+
+Trabajando con objetos:
+- cada clase generalmente tiene un archivo
+- cada clase es un objeto
+- en objetos se va primero a lo concreto y generalizar despues
+- si se puede crear un objeto, tiene que ser valido
+
+method lookup: busca primero un metodo en una clase y si no la encuentra, va al super
